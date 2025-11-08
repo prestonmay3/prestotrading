@@ -1,0 +1,6 @@
+[submodule "DemoStrategies"]
+	path = DemoStrategies
+	url = https://github.com/BookmapAPI/DemoStrategies.git
+[submodule "python-api"]
+	path = python-api
+	url = https://github.com/BookmapAPI/python-api.git
